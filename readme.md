@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lambq/seo/master/public/seo.webshowu.com.png"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -86,3 +86,5 @@ php artisan db:seed
 在遵守以上规则的情况下，你可以享受等同于 MIT 协议的授权。
 
 或者你可以联系 `any@rushangkeji.com` 购买商业授权，商业授权允许移除页脚和标题的 `Powered by webshowu` 字样。
+
+<p align="center"><img src="https://raw.githubusercontent.com/lambq/seo/master/public/seo.webshowu.com_1.png"></p>
